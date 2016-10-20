@@ -1,0 +1,11 @@
+# Folder
+node_modules
+coverage
+
+# Setup
+.password
+.localsetup
+
+# Log
+logs
+*.log
